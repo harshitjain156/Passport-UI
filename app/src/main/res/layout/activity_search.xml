@@ -8,6 +8,7 @@
     android:layout_margin="30sp"
     tools:context=".SearchActivity"
 
+
     >
     <androidx.cardview.widget.CardView
         android:layout_width="match_parent"

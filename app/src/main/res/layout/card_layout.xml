@@ -25,7 +25,7 @@
             android:text="India"
             android:gravity="center_vertical"
             android:layout_marginHorizontal="10sp"
-            android:textColor="@color/black"
+            android:textColor="@color/blue_A700"
             android:textSize="18dp"
             android:drawableRight="@drawable/ic_baseline_navigate_next_24"/>
     </LinearLayout>

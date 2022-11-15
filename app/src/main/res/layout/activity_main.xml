@@ -51,7 +51,7 @@
         android:textSize="16sp"
         android:textStyle="bold"
         android:layout_margin="25sp"
-        android:textColor="@color/blue"/>
+        android:textColor="@color/blue_A100"/>
 
 
 </LinearLayout>
