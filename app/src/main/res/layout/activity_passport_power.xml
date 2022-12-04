@@ -54,7 +54,7 @@
             style="@style/Widget.Material3.Button.OutlinedButton"
             android:layout_width="match_parent"
             android:layout_margin="40sp"
-            android:padding="20sp"
+            android:padding="30sp"
             android:layout_height="wrap_content"
             android:layout_gravity="end"
             android:text="Visa Free"
@@ -63,13 +63,14 @@
             android:textAppearance="@android:style/TextAppearance.Material.Large"
             app:strokeColor="@color/blue_A700"
             android:backgroundTint="@color/white"
-            android:elevation="8sp"/>
+            android:elevation="10sp"
+            app:strokeWidth="2dp"/>
 
         <com.google.android.material.button.MaterialButton
             style="@style/Widget.Material3.Button.OutlinedButton"
             android:layout_width="match_parent"
             android:layout_margin="40sp"
-            android:padding="20sp"
+            android:padding="30sp"
             android:layout_height="wrap_content"
             android:layout_gravity="end"
             android:text="Visa on Arrival"
@@ -78,13 +79,14 @@
             android:textAppearance="@android:style/TextAppearance.Material.Large"
             app:strokeColor="@color/blue_A700"
             android:backgroundTint="@color/white"
-            android:elevation="8sp"/>
+            android:elevation="10sp"
+            app:strokeWidth="2dp"/>
 
         <com.google.android.material.button.MaterialButton
             style="@style/Widget.Material3.Button.OutlinedButton"
             android:layout_width="match_parent"
             android:layout_margin="40sp"
-            android:padding="20sp"
+            android:padding="30sp"
             android:layout_height="wrap_content"
             android:layout_gravity="end"
             android:text="Visa Required"
@@ -93,7 +95,8 @@
             android:textAppearance="@android:style/TextAppearance.Material.Large"
             app:strokeColor="@color/blue_A700"
             android:backgroundTint="@color/white"
-            android:elevation="8sp"/>
+            android:elevation="10sp"
+            app:strokeWidth="2dp"/>
 
 
     </LinearLayout>
